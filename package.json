@@ -8,7 +8,9 @@
   },
   "bin": {
     "hello": "bin/hello.js",
-    "greet": "bin/greet.js"
+    "greet": "bin/greet.js",
+    "parse-command-test": "bin/parse-command-test.js",
+    "original-cli": "bin/cli.js"
   },
   "author": "kntowd",
   "license": "ISC",
