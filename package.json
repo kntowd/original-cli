@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "hello": "bin/hello.js",
-    "greet": "bin/greet.js",
-    "parse-command-test": "bin/parse-command-test.js",
-    "original-cli": "bin/cli.js"
+    "hello": "src/hello.js",
+    "greet": "src/greet.js",
+    "parse-command-test": "src/parse-command-test.js",
+    "original-cli": "src/cli.js"
   },
   "author": "kntowd",
   "license": "ISC",
